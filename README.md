@@ -1,5 +1,5 @@
 Effective Date: [July 22, 2025]
-Bot Name: [Your Bot Name Here]
+Bot Name: [WexcoreBot]
 
 1. Introduction
 This Privacy Policy describes how your data is handled by our Discord bot (the “Bot”) when you use its features, including but not limited to /funfact, /purchase, and /cheatstatus.
